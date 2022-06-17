@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Avi09sh
-- 👀 I’m interested in networking
-- 🌱 I’m currently learning c, c++ and ccna
-- 💞️ I’m looking to collaborate on cisco
+- 👀 I’m interested in networking, cyber security and cloud computing
 - 📫 How to reach me avi09sh@gmail.com
 
 <!---
