@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avi09sh
+- 👋 Hi, I’m @TheAvinashK
 - 👀 I’m interested in networking, cyber security and cloud computing
 - 📫 How to reach me avi09sh@gmail.com
 
